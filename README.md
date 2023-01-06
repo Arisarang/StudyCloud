@@ -8,7 +8,6 @@
 #### - Team Introduce<br/>
 #### - Tech Stack<br/>
 #### - Diagram<br/>
-#### - 소감
 
 <br/>
 
