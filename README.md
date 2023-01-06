@@ -42,5 +42,7 @@
 - Tool & Framework : Eclipse, Spring Tool Suite 3, SQL Developer, Spring, MyBatis
 
 
-## :black_nib: Diagram
+## :black_nib: Diagram<br/>
+<img alt="ERD" src="https://user-images.githubusercontent.com/104713025/210948223-2fb413b9-7a5c-4df5-8b99-59e078cd07d3.png">
+
 
