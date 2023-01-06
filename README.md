@@ -23,11 +23,19 @@
 - 언제 어디서나 자유롭게 재능을 기부하고 습득할 수 있는 지식 공유 커뮤니티 마련
 
 #### :heavy_check_mark: 맡은 기능
-+ [멘토찾기]
+:arrow_forward: [멘토찾기]<br/>
+- https://github.com/Arisarang/StudyCloud/blob/yjw/src/main/java/controller/MtBoardController.java<br/>
+- 게시글 페이징, 게시글 등록, 수정, 삭제
+- 리뷰 조회, 등록, 수정, 삭제
+- 찜하기, 조건검색, 필터, 멘토링 신청, 예약날짜/ 시간 설정
+- 결제기능
 
 
-+ [멘티찾기]
-
+:arrow_forward: [멘티찾기]<br/>
+- https://github.com/Arisarang/StudyCloud/blob/yjw/src/main/java/controller/MntBoardController.java<br/>
+- 게시글 페이징, 게시글 조회, 수정, 삭제 
+- 댓글 페이징, 조회, 등록, 수정, 삭제
+- 검색기능, 필터, 좋아요
 
 
 
