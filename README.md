@@ -67,5 +67,4 @@
 
 <br/>
 
-## :clapper: Preview
 
